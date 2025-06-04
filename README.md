@@ -27,4 +27,5 @@ For inquiries, contact us through the YouTube channel.
 
 ## E-Mail
 네이버(Naver) ID : BlueFrog
+
 adelsys@naver.com
